@@ -13,3 +13,5 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
+
+// NOTE: Do not put some js logics in this directory. use app/javascripts/packs

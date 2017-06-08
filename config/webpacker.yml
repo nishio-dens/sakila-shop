@@ -2,8 +2,8 @@
 
 default: &default
   source_path: app/javascript
-  source_entry_path: packs
-  public_output_path: packs
+  source_entry_path: entries
+  public_output_path: entries
 
   extensions:
     - .coffee

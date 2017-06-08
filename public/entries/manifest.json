@@ -1,0 +1,6 @@
+{
+  "application.js": "http://0.0.0.0:8000/entries/application.js",
+  "hello.js": "http://0.0.0.0:8000/entries/hello.js",
+  "manifest.js": "http://0.0.0.0:8000/entries/manifest.js",
+  "vendor.js": "http://0.0.0.0:8000/entries/vendor.js"
+}
